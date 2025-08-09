@@ -38,6 +38,6 @@ Practicar lógica de programación, manipulación de DOM en JavaScript y uso de 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/El_amigo_secreto.git
+git clone [https://github.com/tu-usuario/El_amigo_secreto.git](https://github.com/DiegoLizarraga/El_amigo_secreto.git)
 
 # Abrir el archivo index.html en tu navegador
